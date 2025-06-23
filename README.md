@@ -1,4 +1,4 @@
-# 🔤 NMT-ENG-BODO — Neural Machine Translation for English ↔️ Bodo
+# 🔤 NMT-ENG-BODO — Neural Machine Translation for English ➡️ Bodo
 
 ---
 
