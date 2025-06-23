@@ -1,5 +1,12 @@
 # 🔤 NMT-ENG-BODO — Neural Machine Translation for English ↔️ Bodo
 
+---
+
+> ✨ "Languages should not be barriers. This model is a step toward empowering linguistic diversity through machine translation."
+
+---
+
+
 > 🧠 A transformer-based NMT system to bridge the language gap for the low-resource Bodo language using state-of-the-art deep learning techniques.
 
 ---
@@ -74,7 +81,10 @@ This project contributes toward:
 
 🔬 Advancing research on low-resource language modeling
 
-##📜 License
+## 🔍 Future Work ➡️
+Extended work includes building similar transformer-based translation systems for Assamese, Khasi, Mizo, Manipuri, Nepali — and developing a multilingual model supporting all of them. See FUTURE_WORK.md for full roadmap and evaluation metrics.
+
+## 📜 License
 MIT License © [Your Name or GitHub Handle]
 
 Feel free to fork, modify, and contribute!
