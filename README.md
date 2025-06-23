@@ -81,8 +81,8 @@ This project contributes toward:
 
 🔬 Advancing research on low-resource language modeling
 
-## 🔍 Future Work ➡️
-Extended work includes building similar transformer-based translation systems for Assamese, Khasi, Mizo, Manipuri, Nepali — and developing a multilingual model supporting all of them. See FUTURE_WORK.md for full roadmap and evaluation metrics.
+## 🔍 Extended Contributions ➡️
+Extended work includes building similar transformer-based translation systems for Assamese, Khasi, Mizo, Manipuri, Nepali — and developing a multilingual model supporting all of them. See Extended_Contributions.md for full roadmap and evaluation metrics.
 
 ## 📜 License
 MIT License © [Your Name or GitHub Handle]
