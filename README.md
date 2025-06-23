@@ -2,7 +2,7 @@
 
 ---
 
-> ✨ "Languages should not be barriers. This model is a step toward empowering linguistic diversity through machine translation."
+> ✨ *Languages should not be barriers. This model is a step toward empowering linguistic diversity through machine translation.*
 
 ---
 
