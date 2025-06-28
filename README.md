@@ -26,10 +26,6 @@ This project presents a **Neural Machine Translation (NMT)** system developed us
 - 🔤 Integrated subword tokenization with `SentencePiece`
 - 📊 Evaluation metrics: BLEU, METEOR, ROUGE, TER, sacreBLEU
 
----
-
-## 📁 Repository Structure
-
 
 ---
 
